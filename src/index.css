@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  /*background-color: #02140c; /* deep PCB green */
+
+  /* your SVG pattern */
+  
+
+  background-repeat: repeat;
+  background-size: 300px; /* adjust based on your SVG */
+
+  color: white;
+  font-family: 'Courier New', monospace;
+
+  overflow-x: hidden;
+}
